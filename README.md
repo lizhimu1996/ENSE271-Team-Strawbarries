@@ -2,4 +2,6 @@
 ENSE271 group project(Team Strawbarries)
 
 # Group members
-Arika Pasha, Nisarg Shah, Zhimu Li
+* ## Arika Pasha
+* ## Nisarg Shah
+* ## Zhimu Li
