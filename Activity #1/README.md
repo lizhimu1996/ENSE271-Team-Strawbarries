@@ -1,4 +1,4 @@
-# Team Strawbarries Activity #1 Documents
+# Team Strawberries Activity #1 Documents
 
 * ## Document outlining
 * ## Affinity diagramming document
